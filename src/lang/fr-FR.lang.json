@@ -1,0 +1,264 @@
+{
+    "name": "Carte de Roshar",
+    "title": "{page} | Les Archives de Roshar",
+    "text-direction": "ltr",
+    "ui": {
+        "loading": "Loading...",
+        "menu": "Menu",
+        "circa": "ca. {date}",
+        "settings": "Réglages",
+        "layers": "Calques",
+        "filters": "Filtres",
+        "close": "Fermer",
+        "back": "Retour",
+        "separate-timelines": "Lignes temporelles séparées",
+        "enable": "Activer",
+        "disable": "Désactiver",
+        "display-separately": "Afficher séparément",
+        "stop-display-separately": "Ne plus afficher séparément",
+        "previous-event": "Événement précédent",
+        "next-event": "Événement suivant",
+        "previous": "Précédent",
+        "next": "Suivant",
+        "jump-to-start": "Aller au début",
+        "jump-to-end": "Aller à la fin",
+        "coppermind": "Plus d'infos sur Coppermind (en anglais)",
+        "welcome": "Bienvenue sur la carte et la chronologie interactive non officielle de la série des *Archives de Roshar* de Brandon Sanderson !",
+        "language": "Langue",
+        "languageHeading": "Sélection de la langue",
+        "help": "Aide",
+        "about": "À propos",
+        "brandon-sanderson": "Brandon Sanderson",
+        "credits": "Crédits",
+        "map-credits": "Illustration de la carte par Spenser Farnes (Stoneward13)",
+        "more": "Plus...",
+        "date": "Date",
+        "date-help": "Comment lire ça ?",
+        "chapter": "Chapitre",
+        "dismiss": "Masquer",
+        "first-visit": {
+            "heading": "Bienvenue"
+        },
+        "search": {
+            "title": "Rechercher",
+            "prompt": "Rechercher...",
+            "empty-query": "Renseignez les termes à rechercher au-dessus pour voir apparaître des résultats",
+            "no-results": "Malheureusement, nous n'avons trouvé aucun résultat en rapport avec ces termes.",
+            "loading": "Recherche en cours..."
+        },
+        "measurement": {
+            "button": "Mesurer des distances",
+            "title": "Mesures",
+            "explanation": "Cliquez sur deux points pour calculer la distance entre eux.\nNotez que la plage de degrés Rosharienne (°ᴿ) va de 0 à 200.",
+            "labels": {
+                "start": "Départ",
+                "end": "Arrivée",
+                "distance": "Distance"
+            },
+            "coordinates": {
+                "full": "{latitude}, {longitude}",
+                "north": "{degrees}°ᴿ N",
+                "south": "{degrees}°ᴿ S",
+                "east": "{degrees}°ᴿ E",
+                "west": "{degrees}°ᴿ O"
+            },
+            "distance": "{distanceKm} km"
+        },
+        "share": "Partager",
+        "image-credits": "par {credits}",
+        "go-to-date": {
+            "heading": "Aller à la date",
+            "fields": {
+                "year": {
+                    "label": "Année",
+                    "placeholder": "AAAA"
+                },
+                "month": {
+                    "label": "Mois",
+                    "placeholder": "MM"
+                },
+                "week": {
+                    "label": "Semaine",
+                    "placeholder": "WW"
+                },
+                "day": {
+                    "label": "Jour",
+                    "placeholder": "JJ"
+                }
+            },
+            "errors": {
+                "year-required": "Vous devez renseigner l'année !",
+                "month-required": "Vous devez renseigner le mois !",
+                "week-required": "Vous devez renseigner la semaine !"
+            }
+        },
+        "translatorNote": {
+            "abbreviation": "NdT",
+            "full": "Note du Traducteur"
+        },
+        "error-screen": {
+            "message": "Oups... On dirait que l'application n'arrive pas à s'afficher correctement dans votre navigateur.\n\nPeut-être pourriez-vous utiliser un [navigateur web plus récent](https://browsehappy.com) ?",
+            "report-intro": "Vous pensez qu'il s'agit d'une erreur ?",
+            "report-button": "Reporter sur GitHub"
+        },
+        "calendar-guide": {
+            "title": "Le Calendrier Rosharien",
+            "start": {
+                "name": "Début",
+                "explanation": "Ceci est une année du calendrier rosharien. Elle correspond à 1.1 années sur Terre."
+            },
+            "day": {
+                "name": "Jour",
+                "explanation": "Chaque jour dure 20 heures roshariennes."
+            },
+            "week": {
+                "name": "Semaine",
+                "explanation": "Chaque semaine dure 5 jours."
+            },
+            "month": {
+                "name": "Mois",
+                "explanation": "Chaque mois s'étend sur 50 jours, soit 10 semaines."
+            },
+            "year": {
+                "name": "Année",
+                "explanation": "Une année dure 10 mois, soit 100 semaines ou 500 jours."
+            },
+            "date": {
+                "name": "Dates",
+                "explanation": "Les dates sont écrites avec l'année en premier, suivi du mois, de la semaine et du jour. Les chiffres sont séparés par des virgules.\nPar exemple, cette date de l'année 1173 est écrite : {date}"
+            }
+        },
+        "lock-timeline": "Verrouiller la navigation dans la chronologie",
+        "unlock-timeline": "Déverrouiller la navigation dans la chronologie",
+        "translation-by": "Traduit par",
+        "tutorial": {
+            "title": "Tutoriel",
+            "calendar": "Explications sur le calendrier et les dates",
+            "explanation": "Cliquez sur n'importe quel bouton rouge pour découvrir ce que vous pouvez faire dans cette application.",
+            "hints": {
+                "go-to-date-button": {
+                    "title": "Aller à la date",
+                    "text": "Aller à une date arbitraire sur la chronologie"
+                },
+                "measure-button": {
+                    "title": "Mesures",
+                    "text": "Mesurer les distances sur la carte, et obtenir les coordonnées exactes des lieux"
+                },
+                "settings-separate-timelines": {
+                    "title": "Lignes temporelles séparées",
+                    "text": "Si vous affichez un filtre dans une ligne temporelle séparée, vous pouvez le retrouvé libellé ici. Utilisez le glisser-déposer pour changer l'ordre d'affichage de ces lignes"
+                },
+                "settings-filters": {
+                    "title": "Filtres",
+                    "text": "Les filtres vous permettent de définir quels événements sont affichés sur la frise chronologique. Vous pouvez les masquer complètement, ou créer une ligne séparée dédiée à ces événements filtrés"
+                },
+                "settings-layers": {
+                    "title": "Calques",
+                    "text": "Les calques permettent d'afficher des informations utiles par-dessus la carte. Ils peuvent être permutés à tout moment."
+                },
+                "location": {
+                    "title": "Détails du lieu",
+                    "text": "Cliquez sur n'importe quel lieu nommé pour voir une description détaillée et des infos associées."
+                },
+                "event": {
+                    "title": "Détails de l'événement",
+                    "text": "Cliquez sur le lien \"Plus\" pour accéder à un résumé détaillé, infos en rapport, et éventuellement où se trouve l'événement dans les romans"
+                },
+                "timeline": {
+                    "title": "Frise chronologique",
+                    "text": "Naviguez dans cette frise en cliquant-glissant ou scrollant, et cliquez sur n'importe quel losange pour voir l'événement associé"
+                },
+                "search": {
+                    "title": "Recherche",
+                    "text": "Rechercher des événements, personnages, lieux ou autres..."
+                },
+                "menu-button": {
+                    "title": "Menu",
+                    "text": "Vous trouverez ici des liens utiles et les paramètres de langue"
+                },
+                "settings-button": {
+                    "title": "Menu des réglages",
+                    "text": "Ajustez l'affichage et les paramètres de filtrage pour la carte et la frise chronologique."
+                }
+            }
+        }
+    },
+    "numbers": [
+        "Jes",
+        "Nan",
+        "Chach",
+        "Vev",
+        "Palah",
+        "Shash",
+        "Betab",
+        "Kak",
+        "Tanat",
+        "Ishi"
+    ],
+    "layers": {
+        "shadesmar": "Shadesmar",
+        "silverKingdoms": "Royaumes d'Argent",
+        "oathgates": "Localisation des Portes du Pacte",
+        "factions": "État actuel du monde",
+        "graticule": "Lignes des latitudes et longitudes"
+    },
+    "entry-types": {
+        "events": "Événements",
+        "locations": "Lieux",
+        "characters": "Personnages",
+        "misc": "Divers"
+    },
+    "tagCategories": {
+        "tags": "Tags",
+        "characters": "Personnages",
+        "books": "Livres"
+    },
+    "tags": {
+        "general": "Général",
+        "dalinar": "Dalinar",
+        "kaladin": "Kaladin",
+        "shallan": "Shallan",
+        "twok": "La Voie des Rois",
+        "wor": "Le Livre des Radieux",
+        "ed": "Dansecorde",
+        "ob": "Justicière",
+        "ds": "Éclat de l'Aube",
+        "row": "Rythme de Guerre",
+        "adolin": "Adolin",
+        "renarin": "Renarin",
+        "lift": "Lift",
+        "szeth": "Szeth",
+        "rysn": "Rysn",
+        "jasnah": "Jasnah",
+        "navani": "Navani",
+        "eshonai": "Eshonai",
+        "taravangian": "Taravangian",
+        "wit": "Malice",
+        "moash": "Moash",
+        "venli": "Venli",
+        "history": "Histoire",
+        "diagram": "Le Diagramme",
+        "ghostbloods": "Les Sang-des-spectres"
+    },
+    "sharing": {
+        "title": "Partager",
+        "global-message": "Découvrez la Carte et Chronologie interactive de Roshar !",
+        "twitter": {
+            "button-text": "Tweet"
+        }
+    },
+    "factions": {
+        "neutral": {
+            "name": "Neutre",
+            "style": "Vert"
+        },
+        "odium": {
+            "name": "Forces d'Abjection",
+            "style": "Doré"
+        },
+        "coalition": {
+            "name": "Coalition des Monarques de Dalinar",
+            "style": "Bleu et marron hachuré"
+        }
+    }
+}
