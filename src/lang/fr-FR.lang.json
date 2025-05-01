@@ -37,7 +37,10 @@
         "chapter": "Chapitre",
         "dismiss": "Masquer",
         "first-visit": {
-            "heading": "Bienvenue"
+            "heading": "Bienvenue",
+            "intro": "**Spoilers jusqu'à la fin d'_Éclat de l'Aube_ et _Rythme de Guerre_  ! ** Continuez à vos risques et périls.\n\nIl semble que vous utilisiez cette application pour la première fois. Vous avez besoin d'aide ?\n\nVous pouvez toujours trouver de l'aide plus tard dans le menu en haut à droite.",
+            "calendar": "Expliquer les dates",
+            "tutorial": "Montrer les astuces"
         },
         "search": {
             "title": "Rechercher",
@@ -181,7 +184,9 @@
                     "text": "Ajustez l'affichage et les paramètres de filtrage pour la carte et la frise chronologique."
                 }
             }
-        }
+        },
+        "aboutText": "Bienvenue sur notre Carte et Chronologie interactive de Roshar !\n\nCe site vous permet d'explorer la carte de Roshar et la chronologie de la série des *Archives de Roshar* de Brandon Sanderson. En cliquant sur un endroit de la carte, vous obtiendrez des détails sur cet endroit ainsi que sur les événements et les personnages qui s'y rapportent. En parcourant la chronologie en bas de la page, vous pouvez passer d'un événement à l'autre sur la carte et obtenir plus d'informations sur ces événements. Si vous souhaitez en savoir plus, des liens vers le wiki Coppermind sont disponibles.\n\nIl s'agit d'un projet réalisé par des fans qui n'est pas affilié à Dragonsteel Entertainment. Toutes les dates et les lieux sont basés sur une combinaison de références dans le monde et sur nos propres estimations et hypothèses. Si vous souhaitez approfondir la chronologie de la série, ou si vous êtes curieux des références et des hypothèses utilisées, veuillez visiter [le projet de chonologie des Archives de Roshar de Jofwu](https://docs.google.com/spreadsheets/d/1zq5bJoKE83ggDCjH43i1hZi0CIpB2iAx7v37zQPVFK0).\n\nN'oubliez pas de consulter le tutoriel si vous ne l'avez pas encore fait ! Nous espérons que vous trouverez cet outil amusant, instructif et utile lors de votre lecture des *Archives de Roshar* !",
+        "related": "En relation"
     },
     "numbers": [
         "Jes",
@@ -244,7 +249,23 @@
         "title": "Partager",
         "global-message": "Découvrez la Carte et Chronologie interactive de Roshar !",
         "twitter": {
-            "button-text": "Tweet"
+            "button-text": "Tweet",
+            "entry-template": "Découvrez \"{entry}\" la Carte et Chronologie interactive de Roshar !"
+        },
+        "facebook": {
+            "button-text": "Facebook"
+        },
+        "reddit": {
+            "button-text": "Reddit",
+            "entry-template": "Découvrez \"{entry}\" sur la Carte et Chronologie interactive de Roshar !"
+        },
+        "tumblr": {
+            "button-text": "Tumblr",
+            "entry-template": "Découvrez \"{entry}\" sur la Carte et Chronologie interactive de Roshar !"
+        },
+        "more": {
+            "button-text": "Plus...",
+            "entry-template": "Découvrez \"{entry}\" sur la Carte et Chronologie interactive de Roshar !"
         }
     },
     "factions": {
@@ -260,5 +281,7 @@
             "name": "Coalition des Monarques de Dalinar",
             "style": "Bleu et marron hachuré"
         }
-    }
+    },
+    "logo": "roshar.png",
+    "search-language": "fr"
 }
