@@ -1,0 +1,5 @@
+# Abjection
+
+> Et c’était *aussi* la haine. Une haine profonde et palpitante qui cherchait activement à faire fondre toute chose. C’était la chaleur de mille soleils, la béatitude de chaque baiser, c’étaient les vies de tous les hommes rassemblées en une, définie par tout ce qu’ils ressentaient.
+
+**Abjection** est un Éclat d'Adonalsium détenu par Rayse. Contrairement à la plupart des autres Éclats, qui choisissent généralement un seul monde et s'y installent, Abjection voyage librement dans le cosmère depuis longtemps, refusant délibérément de s'Investir où que ce soit. Il est responsable de la mort d'au moins quatre Éclats : Dévotion, Domination, Ambition et #[Honneur](characters/honor). Actuellement, il est confiné à la planète Braize, mais son influence se fait sentir sur l'ensemble du système Rosharien. L'Investiture d'Abjection est typiquement associée aux couleurs or « brûlant » ou violet sombre, bien qu'elle soit aussi souvent rouge, la couleur qui indique l'Investiture corrompue.

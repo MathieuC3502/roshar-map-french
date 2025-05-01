@@ -1,0 +1,7 @@
+# Shallan Davar
+
+> Je cherche la vérité. Où qu’elle puisse se trouver, quiconque puisse la détenir. Voilà qui je suis.
+
+**Shallan Davar**, également connue sous le nom de **Voile** ou **Radieuse**, est une pâle-iris originaire de #[Jah Keved](locations/jah-keved). Faisant partie de l'ordre des Tisseflamme des Chevaliers Radieux , elle collabore également avec la société secrète connue sous le nom de Sang-des-spectres. Elle est la fille du défunt Lin Davar, mais le nom de sa mère reste inconnu. Elle a quatre frères. L'aîné, Helaran, est mort en combattant contre #[Kaladin](characters/kaladin) bien qu'ils ne se soient jamais connus. Les autres frères sont Balat, Wikim et Jushu. Elle est une érudite en devenir, dont la plus grande réussite est la découverte de la cité légendaire d'#[Urithiru](locations/urithiru). Elle est également réputée pour son extraordinaire talent à reproduire des scènes fugaces avec une grande précision photographique.
+
+Issue d'une petite maison noble de Jah Keved, Shallan a vécu une vie protégée sur le domaine de son père jusqu'à l'âge de dix-sept ans, lorsqu'elle est partie chercher un apprentissage auprès de la princesse #[Jasnah Kholin](characters/jasnah) en tant qu'érudite. En tant qu'apprentie de Jasnah Kholin, elle est devenue la fiancée du cousin de Jasnah, le Prince #[Adolin Kholin](characters/adolin), qu'elle a épousé après la bataille des Champs de Thaylenah. Elle apprend également que Jasnah cherche à arrêter les mystérieux et calamiteux Néantifères.
