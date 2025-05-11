@@ -3,7 +3,7 @@
     "title": "{page} | Les Archives de Roshar",
     "text-direction": "ltr",
     "ui": {
-        "loading": "Loading...",
+        "loading": "Chargement...",
         "menu": "Menu",
         "circa": "ca. {date}",
         "settings": "Réglages",
@@ -102,7 +102,7 @@
         "error-screen": {
             "message": "Oups... On dirait que l'application n'arrive pas à s'afficher correctement dans votre navigateur.\n\nPeut-être pourriez-vous utiliser un [navigateur web plus récent](https://browsehappy.com) ?",
             "report-intro": "Vous pensez qu'il s'agit d'une erreur ?",
-            "report-button": "Reporter sur GitHub"
+            "report-button": "Signaler sur GitHub"
         },
         "calendar-guide": {
             "title": "Le Calendrier Rosharien",
@@ -128,7 +128,7 @@
             },
             "date": {
                 "name": "Dates",
-                "explanation": "Les dates sont écrites avec l'année en premier, suivi du mois, de la semaine et du jour. Les chiffres sont séparés par des virgules.\nPar exemple, cette date de l'année 1173 est écrite : {date}"
+                "explanation": "Les dates sont écrites avec l'année en premier, suivi du mois, de la semaine et du jour. Les chiffres sont séparés par des points.\nPar exemple, cette date de l'année 1173 est écrite : {date}"
             }
         },
         "lock-timeline": "Verrouiller la navigation dans la chronologie",
@@ -283,5 +283,7 @@
         }
     },
     "logo": "roshar.png",
-    "search-language": "fr"
+    "search-language": "fr",
+    "texture-locale": "fr",
+    "meta": {}
 }
